@@ -18,5 +18,5 @@ public class Coffee {
 	private String name;
 	private Money price;
 	private Date createdAt;
-	private Date updateAt;
+	private Date updatedAt;
 }

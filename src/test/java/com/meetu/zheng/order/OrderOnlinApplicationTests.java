@@ -8,6 +8,7 @@ class OrderOnlinApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
